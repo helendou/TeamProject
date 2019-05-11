@@ -1,0 +1,35 @@
+Dongeon Kim
+1895376
+
+class1
+4-May-2019
+1.tried installing 'atom', Bootstrap(1.5hrs)
+2.tried MariaDB, MySQL(0.5hr)
+3.tried re-installing virtual machine(2hrs)
+
+class2
+6-May-2019
+1.tried installing Oracle Virtual Machine to re-install 'Debian'
+->failed(6rs)-> decided to go for Windows.
+2.Learned how to use Bootstrap.(2hrs)
+
+class3
+7-May-2019
+1.learned how to use Github(3hrs)
+2.made UML(30mins)
+3.made report(20mins)
+
+class4
+8-May-2019
+1.installed Xampp with the help of friends(1hr)
+->turn off antivirus program
+2.corrected report(30mins)
+3.PHP intro(3hrs)
+
+class5
+9-May-2019
+1.Learn PDO to execute MySQL Queries.(2hrs)
+2.Learn the purpose of using MySQL-it is an open source.
+
+class6
+11-May-2019
