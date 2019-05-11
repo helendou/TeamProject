@@ -1,0 +1,37 @@
+project documentation 
+
+May 4th 2019
+1. install atom in linux system in personal computer, but failed (1.5hours).
+2. try to reinstall the virtual machine and download the Atom, but still not working (1hours)
+3. Learn the command of Git, and review the Git Tourial (1hour)
+4. Searn online and try to fix the Atom run in linux System, but still failed (2.5hours)
+
+May 6th 2019
+1. install Atom, git, Xampp in Window System, it workd (2.5 hours);
+2. read slides in Omnivox about bootstrap and install it in my computer (1.5hours)
+3. Learn the function of bootstrap in Atom and try to familiar with it in class (2hours)
+4. Create our GitHub account and think about the project, will design the project related 
+  "school catering"(1 hour)
+
+May 7th 2019
+1. Search the information of how to build up the website desgin of the project "school catering";
+2. use bootstrap, html design part of the website (4hours);
+3. Learn how to use GitHub and the Github collaboration (3hours)
+
+May 8th 2019
+1. Continue the website design (2hours)
+2. read the slide in Omnivox about php (1hour)
+3. Learn how to use the php (2hours)
+4. Learn how to work with XAMPP (1hour)
+5. design the UML of the project on drwaio (1 hour)
+6. push all the finished part of project on Github;
+
+May 9th 2019
+1. Continue the web design (1 hour)
+2. create the report.php, that improve the website with php part (2hours)
+
+May 10th 2019
+1. Run the designed project in XAMPP, and test the php part (2hours)
+
+May 11th 2019
+1. begin to learn PDO part, read the slides on ominivox, and will improve the project with databse part;
