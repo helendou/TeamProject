@@ -1,0 +1,37 @@
+Project log for Final Project:
+Alex Proca
+
+Day #1, #2 -04th of May Saturday:
+We start working on the class computer, we installed Atom and learned some basics how to use it.
+We start started creating the GitHub account. Explored LAMP software for Linux environment.
+
+Day # 3, Monday May 06,
+We covered most of the of the same subjects we covered on Saturday but for the Windows environment 
+We tried and explored and practice Bootstrap and more practice on Atom IDE.
+Start working on the UML project Shema.
+We wrote our project outline and project description.
+
+Day #4, Tuesday May 07, 
+We worked with Git, personal and team members accounts, practiced collaborating on the same file and fixing the conflict errors.
+Worked under our project idea to create a ‘Food School catering’ Website; Discussed all the details and created a work plan.
+We corrected and resubmitted our UML schema.
+
+Day # 05 Wednesday May 08,
+I have installed XAMPP and we start looking into PHP following the online tutorial.
+In the team we reviewed our contribution work.
+
+Day #6 Thurday:
+PHP tutorial
+
+Day #7:
+php login practice
+
+Day #6
+link database with php
+php tutorial and practice
+creating a table via php admin page,
+bootstrup css. use of the class Thumbnail to 
+make the php code more efficiant expluding the repetition of the code.
+
+
+ 
