@@ -33,3 +33,15 @@ class5
 
 class6
 11-May-2019
+1.read documents about Apache to understand better about Web Server
+  we can create database in Apache web server.
+  so, we can use Bootstrap, Html, CSS, Javascript to build the web page,
+  then user can ask for the date in datebase through Apache.
+
+2.read about PHP(0.5hr)
+
+12-May-2019
+1.read about Demo:Bootstrap+php+MySQL
+  try it out on my own, had a hard time to put img's on webpage.
+  managed to do it. there was a problem thumnail height adjustment problem came out when img size is not equal.
+
