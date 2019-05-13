@@ -29,21 +29,31 @@ class4
 class5
 9-May-2019
 1.Learn PDO to execute MySQL Queries.(2hrs)
-2.Learn the purpose of using MySQL-it is an open source.
+2.Learn the purpose of using MySQL-it is an open source.(0.5hrs)
 
 class6
 11-May-2019
 1.read documents about Apache to understand better about Web Server
   we can create database in Apache web server.
   so, we can use Bootstrap, Html, CSS, Javascript to build the web page,
-  then user can ask for the date in datebase through Apache.
+  then user can ask for the date in datebase through Apache.(0.5hrs)
 
 2.read about PHP(0.5hr)
 
 12-May-2019
-1.read about Demo:Bootstrap+php+MySQL
+1. read about Demo:Bootstrap+php+MySQL
   try it out on my own, had a hard time to put img's on webpage.
-  managed to do it. there was a problem thumnail height adjustment problem came out when img size is not equal.
+  managed to do it. there was a problem thumnail height adjustment problem came out when img size is not equal.(1hrs)
 
-2.try implementing login page..
-  able to implement registration, log in using php.
+2. try implementing login page..(2hrs)
+  able to implement registration, log in using php. in progress.
+
+3. make foods database and load on webpage using thumbnail loop(1hr)
+
+to do list
+1> make classes
+order, foods, invoice
+
+2> mix the login module with webpages
+
+3> using order object to update foods qtyonhand and give output as invoice
