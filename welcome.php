@@ -15,21 +15,25 @@
   <body>
     <nav class="navbar navbar-default">
         <div class="navbar-header">
-          <img style="max-width:200px; padding:30px;"src="img/weblogo.jpg" widthalt="logo">
+          <a href="welcome.php">
+            <img style="max-width:200px; padding:30px;"src="img/weblogo.jpg" widthalt="logo">
+          </a>
         </div>
-          <ul class="nav navbar-nav navbar-right；pagination">
-            <li class="page-item"><a class="page-link" href="welcome.html">Welcome</a></li>
+
+         <ul class="nav navbar-nav navbar-right">
+            <li class="page-item"><a class="page-link" href="welcome.php">Home</a></li>
             <li class="page-item"><a class="page-link"href="order.html">Order</a></li>
-            <li class="page-item"><a class="page-link"href="information.html">Information</a></li>
+            <li class="page-item"><a class="page-link"href="information.html">About Us</a></li>
             <li class="page-item"><a class="page-link"href="contact.html">Contact</a></li>
          </ul>
+
     </nav>
 
     <hr>
        <div class="container">
          <div class="row">
         <div class="col-sm-4">
-          <a href="information.html"> Welcome information
+          <a href="information.html"> About Us
           <img src="img/service.jpg" alt="info" class="img-responsive" width="304" height="236">
           <button class="btn btn-success">Click me</button>
           </a>
