@@ -1,3 +1,7 @@
+<?php
+  require "registration_log-in_php/connect.php"
+?>
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -11,21 +15,25 @@
   <body>
     <nav class="navbar navbar-default">
         <div class="navbar-header">
-          <img style="max-width:200px; padding:30px;"src="img/weblogo.jpg" widthalt="logo">
+          <a href="welcome.php">
+            <img style="max-width:200px; padding:30px;"src="img/weblogo.jpg" widthalt="logo">
+          </a>
         </div>
-          <ul class="nav navbar-nav navbar-right；pagination">
-            <li class="page-item"><a class="page-link" href="welcome.html">Welcome</a></li>
+
+         <ul class="nav navbar-nav navbar-right">
+            <li class="page-item"><a class="page-link" href="welcome.php">Home</a></li>
             <li class="page-item"><a class="page-link"href="order.html">Order</a></li>
-            <li class="page-item"><a class="page-link"href="information.html">Information</a></li>
+            <li class="page-item"><a class="page-link"href="information.html">About Us</a></li>
             <li class="page-item"><a class="page-link"href="contact.html">Contact</a></li>
          </ul>
+
     </nav>
 
     <hr>
        <div class="container">
          <div class="row">
         <div class="col-sm-4">
-          <a href="information.html"> Welcome information
+          <a href="information.html"> About Us
           <img src="img/service.jpg" alt="info" class="img-responsive" width="304" height="236">
           <button class="btn btn-success">Click me</button>
           </a>
@@ -112,16 +120,16 @@
                     </div>
 
                     <div class="container">
-                        <img src="img/tao.jpg" alt="general tao">
-                        <img src="img/chinois.jpg" alt="pate chinois">
-                        <img src="img/macaroni.jpg" alt="macaroni">
-                        <img src="img/hamburger.jpg" alt="hamburger">
-                        <img src="img/spaghetti.jpg" alt="spaghetti"><br><br>
-                        <img src="img/lasagne.jpg" alt="Lasagne">
-                        <img src="img/penne.jpg" alt="penne">
-                        <img src="img/pizza.jpg" alt="pizza">
-                        <img src="img/saumon.jpg" alt="saumon">
-                        <img src="img/padThai.jpg" alt="padThai">
+
+                    <?php
+                        $STH = $DBH->query('SELECT image FROM foods');
+                        $STH->setFetchMode(PDO::FETCH_ASSOC);
+                        while($row=$STH->fetch()){
+                    ?>
+                          <img src=<?php echo $row['image'];?> alt="food image">
+                    <?php
+                        }
+                    ?>
                     </div>
                 </div>
                 </form>
