@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <title></title>
+  </head>
+  <body>
+    <div class="container">
+    <nav class="navbar navbar-default">
+        <div class="navbar-header">
+          <img style="max-width:200px; padding:30px;"src="img/weblogo.jpg" widthalt="logo">
+        </div>
+          <ul class="nav navbar-nav navbar-right；pagination">
+            <li class="page-item"><a class="page-link" href="welcome.html">Welcome</a></li>
+            <li class="page-item"><a class="page-link"href="order.html">Order</a></li>
+            <li class="page-item"><a class="page-link"href="information.html">Information</a></li>
+            <li class="page-item"><a class="page-link"href="contact.html">Contact</a></li>
+         </ul>
+    </nav>
+  </div>
+
+    <hr>
+       <div class="container">
+         <div class="row">
+        <div class="col-sm-4">
+          <a href="information.html"> Welcome information
+          <img src="img/service.jpg" alt="info" class="img-responsive" width="304" height="236">
+          <button class="btn btn-success">Click me</button>
+          </a>
+        </div>
+
+        <div class="col-sm-4">
+          <a href="order.html"> Order Menu
+          <img src="img/order.jpg" alt="order" class="img-responsive" width="304" height="236">
+          <button class="btn btn-success">Click me</button>
+          </a>
+        </div>
+
+        <div class="col-sm-4">
+          <a href="contact.html"> Contact US
+          <img src="img/contact.jpg" alt="contact" class="img-responsive"width="304" height="236">
+          <button class="btn btn-success">Click me</button>
+          </a>
+        </div>
+       </div>
+    </div>
+        <hr>
+
+       <div class= "container">
+        <form action="report.php" method="post">
+                <div class="form-group row"  style="background-color: lightgreen" >
+                    <h3> Order your meal online</h3>
+                    <h5>Fields marked with * are required</h5><br>
+                    <div>
+                      <label class="control-label col-sm-2" for="firstname_parent">Firstname of Parent*</label>
+                    </div>
+
+                    <div class="col-sm-3">
+                      <input type="text" name="firstnameParent"  id="firstname_parent" size="30"/>
+                    </div>
+
+                     <div>
+                        <label class="control-label col-sm-2"for="name_parent">Lastname of Parent*</label>
+                     </div>
+
+                     <div class="col-sm-3">
+                      <input type="text" name="nameParent" id="name_parent" size="30"/>
+                     </div>
+                   <br><br>
+                    <div>
+                        <label class="control-label col-sm-2" for="name_kids">Firstname of Child*</label>
+                    </div>
+                     <div class="col-sm-3">
+                        <input type="text" name="firstname_child" id="firstname_child" size="30"/>
+                    </div>
+
+                      <div>
+                        <label class="control-label col-sm-2" for="lastname_child">Lastname of Child*</label>
+                      </div>
+
+                      <div class="col-sm-3">
+                        <input type="text" name="lastname_child" id="lastname_child" size="30"/><br>
+                    </div>
+                    <br><br>
+
+                    <div>
+                        <label class="control-label col-sm-2" for="Schoold"> School of Child*</label>
+                    </div>
+
+                    <div class="col-sm-3">
+                        <input type="text" name="school" id="school" size="30"/>
+                    </div>
+
+                      <div>
+                        <label class="control-label col-sm-2" for="age">Age of Child*</label>
+                      </div>
+
+                      <div class="col-sm-3">
+                        <input type="text" name="age" id="age" size="30"/><br><br>
+                    </div>
+                    <br><br>
+
+                       <div>
+                        <h3>Please select your meal from Monday to Friday</h3>
+                        <label class="control-label col-sm-1"for="monday">Monday*</label>
+                      </div>
+                      <div class="col-sm-2">
+                        <select name="monday" id="monday">
+                            <option value=" ">&nbsp;</option>
+                            <option value= "1" >1. Poulet Général Tao</option>
+                            <option value= "2" >2. Paté Chinois</option>
+                        </select>
+                       </div> <br><br>
+
+                        <div>
+                        <label class="control-label col-sm-1" for="Tuesday">Tuesday*</label>
+                       </div>
+
+                       <div class="col-sm-2">
+                        <select name="tuesday" id="Tuesday">
+                            <option value=" ">&nbsp;</option>
+                            <option value="1">1. Macaroni Fromage</option>
+                            <option value="2">2. Hamburger</option>
+                        </select>
+                      </div><br><br>
+
+                        <div>
+                        <label class="control-label col-sm-1" for="wednesday">Wednesday*</label>
+                       </div>
+
+                       <div class="col-sm-2">
+                        <select name="wednesday" id="wednesday">
+                            <option value=" ">&nbsp;</option>
+                            <option value="1">1. Spaghetti</option>
+                            <option value="2">2. Lasagne</option>
+                        </select>
+                      </div><br><br>
+
+                      <div>
+                        <label class= "control-label col-sm-1" for="thursday">Thursday*</label>
+                      </div>
+                      <div class="col-sm-2">
+                        <select name="thursday" id="thursday">
+                            <option value=" ">&nbsp;</option>
+                            <option value="1">1. Pennine Sauce Viande</option>
+                            <option value="2">2. Pizza Tomate Fromage</option>
+                        </select>
+                      </div><br><br>
+
+                       <div>
+                        <label class= "control-label col-sm-1" for="Friday">Friday*</label>
+                      </div>
+                      <div class="col-sm-2">
+                        <select name="friday" id="friday">
+                            <option value=" ">&nbsp;</option>
+                            <option value="1">1. Pilaf au Saumon</option>
+                            <option value="2">2. Pad Thai au Poulet</option>
+                        </select>
+                    </div><br><br>
+
+
+                    <div>
+                        &nbsp;&nbsp;<input type="submit" id="submit" value="  Submit"><br><br>
+                    </div>
+
+                    <div class="container">
+                        <img src="img/tao.jpg" alt="general tao" width="220" height="450">
+                        <img src="img/chinois.jpg" alt="pate chinois" width="220" height="450">
+                        <img src="img/macaroni.jpg" alt="macaroni" width="220" height="450">
+                        <img src="img/hamburger.jpg" alt="hamburger" width="220" height="450">
+                        <img src="img/spaghetti.jpg" alt="spaghetti" width="220" height="450"><br><br>
+                        <img src="img/lasagne.jpg" alt="Lasagne" width="220" height="450">
+                        <img src="img/penne.jpg" alt="penne" width="220" height="450">
+                        <img src="img/pizza.jpg" alt="pizza" width="220" height="450">
+                        <img src="img/saumon.jpg" alt="saumon" width="220" height="450">
+                        <img src="img/padThai.jpg" alt="padThai" width="220" height="450">
+                    </div>
+                </div>
+                </form>
+               </div>
+
+                <hr>
+
+                <div class="container" style= "padding-top: 60px;"">
+                <footer>
+                        <ul>
+                            <li><a href="welcome.html">Welcome</a></li>
+                            <li><a href="information.html">Information</a></li>
+                            <li><a href="order.html">Order</a></li>
+                            <li><a href="contact.html">Contact</a></li>
+                        </ul>
+                </footer>
+              </div>
+
+       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  </body>
+      </body>
+       </html>
