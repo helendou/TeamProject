@@ -45,3 +45,5 @@ class6
   try it out on my own, had a hard time to put img's on webpage.
   managed to do it. there was a problem thumnail height adjustment problem came out when img size is not equal.
 
+2.try implementing login page..
+  able to implement registration, log in using php.
