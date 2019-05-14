@@ -18,3 +18,4 @@ Tasks to complete / implement:
 16.	LOGIN page => on a login a button open a order history from database.
 17.	SIGN UP page
 18.	To look into “section variable” php in w3schools tutorial
+19.     to upate and improove the LOGIN and SIGN UP pages
