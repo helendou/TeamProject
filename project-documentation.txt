@@ -35,3 +35,8 @@ May 10th 2019
 
 May 11th 2019
 1. begin to learn PDO part, read the slides on ominivox, and will improve the project with databse part;
+2. Learn how to use PDO work with datebase and webdesign (2hours)
+
+May 13th 2019
+1. revise the website order.html, with Bootstrap form, button ect (2)hours
+2. team work together with the website design, update inforamtion, database and php part. (3hours)
