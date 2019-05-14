@@ -40,3 +40,7 @@ May 11th 2019
 May 13th 2019
 1. revise the website order.html, with Bootstrap form, button ect (2)hours
 2. team work together with the website design, update inforamtion, database and php part. (3hours)
+
+May 14th 2019
+1. revise the homepage website (navbar, button, footer, 2hours)
+2. do the database part and try to run it in the server (1hour)
