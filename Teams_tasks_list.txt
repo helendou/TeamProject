@@ -5,10 +5,10 @@ Tasks to complete / implement:
 3.	Create the link of LOGIN  and SIGN UP buttons with our php -DONE
 4.	After the login, to have your account info in the right upper corner of the screen.
 5.	To automate the fill out the updates of the menu
-6.	To fill our the names in the table with filled �.???
+6.	To fill our the names in the table with filled .???
 7.	To create the footer using bootstrap with social media icons
-8.	HOME page to update � DUE
-9.	Nav  bar and the footer � Alex;
+8.	HOME page to update  DUE
+9.	Nav  bar and the footer Alex;
 10.	Footer should be fixed in all the pages except the login and register page;
 11.	To create database
 12.	HOME gage
@@ -17,6 +17,6 @@ Tasks to complete / implement:
 15.	Contact us
 16.	LOGIN page => on a login a button open a order history from database.
 17.	SIGN UP page
-18.	To look into �section variable� php in w3schools tutorial
+18.	To look into section variable php in w3schools tutorial
 19. To upate and improove the LOGIN and SIGN UP pages
-20. 
+20.
