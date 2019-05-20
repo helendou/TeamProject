@@ -50,6 +50,21 @@ class6
 
 3. make foods database and load on webpage using thumbnail loop(1hr)
 
+13-May-2019
+1.php w3school reading
+2.log-in page
+3.to modify bootstrap
+
+14-May-2019
+1.php w3school reading
+2.modify bootstrap code header.php footer.php
+
+15-may-2019
+1.login process
+2.split the job
+
+
+
 to do list
 1> make classes
 order, foods, invoice
