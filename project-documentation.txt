@@ -44,3 +44,22 @@ May 13th 2019
 May 14th 2019
 1. revise the homepage website (navbar, button, footer, 2hours)
 2. do the database part and try to run it in the server (1hour)
+3. learn login function in XAMPP (3hours);
+
+May 16th 2019
+1. keep revising the website and function (php, xampp) (2hours)
+2. continue the login/logout system of the project (2hours)
+
+May 20th 2019
+1. Change the website of a bootstrap model, update and revise the website (1hour)
+2. Working on Login/logout system, with Tessia's method and try to use the other method that found on the network (3 hours).
+
+May21th 2019
+1. Team work together, merge every part of our website and will keep revising the project (3hours)
+
+May 22th 2019
+1. Test the database and every step of the project, different login/logout system, php code ect. 
+(2 hours)
+
+May 24th 2019
+1, prepare and finalize all the part of the project that will present tonight (3hours)
